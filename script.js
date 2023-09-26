@@ -1,0 +1,1 @@
+let Console("hello");
